@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ```javascript
-const anmol = {
+const guilhermeGuedes = {
     developer: web
     code: ["Javascript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "web design", "basketball"],
