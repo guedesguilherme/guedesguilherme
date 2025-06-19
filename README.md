@@ -1,21 +1,5 @@
 ### Opa, tudo certo? Me chamo Guilherme, seja bem-vindo ao meu github! 👋
 
-<!--
-**guedesguilherme/guedesguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -36,18 +20,29 @@ Here are some ideas to get you started:
 
 ```javascript
 const guilhermeGuedes = {
-    developer: web
+    developer: true
     code: ["Javascript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "web design", "basketball"],
+    askMeAbout: ["fullStack dev", "tech", "my wife and kids", "basketball"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "MongoDB", "MySQL"],
+            techs: ["JavaScript", "TypeScript", "Java", "Python"],
         },
         frontEnd: {
-            js: ["React", "HTML", "CSS", "Figma"],
+            techs: ["React", "React Native", "HTML", "Css", "Tailwind"],
+        }
+        dataBases: {
+            techs: ["MySQL", "Postgre", "MongoDB"],
+        }
+        tools: {
+            techs: ["Docker", "Git & Github", "CI/CD", "Jira", "Figma"],
         }
     },
     Education: Faculdade de Tecnologia - Cotia,
-    currentFocus: "Become a web developer",
+    currentFocus: "Build scalable, performance-focused applications that solve real-world problems",
 };
 ```
+<br/>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesguilherme&layout=compact&theme=tokyonight"/>
+</div>
