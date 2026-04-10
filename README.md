@@ -10,10 +10,10 @@ Building **[Symetra](https://github.com/guedesguilherme)** — AI-native clinic 
 
 ### Stack
 
-**AI/LLM** — Handlebars · LangSmith · New Relic · GPT, Gemini & Claude · Prompt Engineering  
-**Fullstack** — React · Node.js · FastAPI · TypeScript · Python · Nest 
-**Data** — MySQL · MongoDB · Supabase  
-**Tools** — Git · Docker · Vercel · Render
+**AI/LLM**: Handlebars · LangSmith · New Relic · GPT, Gemini & Claude · Prompt Engineering  
+**Fullstack**: React · Node.js · FastAPI · TypeScript · Python · Nest
+**Data**: MySQL · MongoDB · Supabase  
+**Tools**: Git · Docker · Vercel · Render
 
 ---
 
