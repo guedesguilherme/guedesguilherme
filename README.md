@@ -21,7 +21,7 @@ Building **[Symetra](https://github.com/guedesguilherme)** — AI-native clinic 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Symetra OS](https://github.com/guedesguilherme) | AI clinic management SaaS · in production | React · Node · GPT-4o · WhatsApp API |
+| [Symetra OS](https://github.com/guedesguilherme) | AI clinic management SaaS · in production | Next · Nest · GPT-4o · WhatsApp API |
 | [JonOptima](https://github.com/guedesguilherme/JonOptima) | AI career agent · tailors resumes in real-time | React · FastAPI · Gemini |
 | [InfraCall](https://github.com/guedesguilherme/InfraCall) | Ticket management system built during internship | React · Node.js · MySQL |
 
