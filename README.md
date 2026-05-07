@@ -4,7 +4,7 @@
 
 At **Monest**, I maintain AI agents that handle **1M+ conversations/month** — Handlebars templates, LangSmith evaluations, New Relic monitoring.
 
-Building **[Symetra](https://github.com/guedesguilherme)** — AI-native clinic management SaaS for Brazil's 400K+ aesthetic clinics. Scheduling, WhatsApp automation, conversational AI.
+Building **[Symetra](https://www.symetra.com.br/)**. AI-native clinic management SaaS for Brazil's 400K+ aesthetic clinics. Scheduling, WhatsApp automation, conversational AI.
 
 ---
 
@@ -21,7 +21,7 @@ Building **[Symetra](https://github.com/guedesguilherme)** — AI-native clinic 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Symetra OS](https://github.com/guedesguilherme) | AI clinic management SaaS · in production | Next · Nest · GPT-4o · WhatsApp API |
+| [Symetra OS](https://www.symetra.com.br/) | AI clinic management SaaS · in production | Next · Nest · GPT-4o · WhatsApp API |
 | [JonOptima](https://github.com/guedesguilherme/JonOptima) | AI career agent · tailors resumes in real-time | React · FastAPI · Gemini |
 | [InfraCall](https://github.com/guedesguilherme/InfraCall) | Ticket management system built during internship | React · Node.js · MySQL |
 
