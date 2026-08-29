@@ -10,7 +10,7 @@ Building **[Symetra](https://www.symetra.com.br/)**. AI-native clinic management
 
 ### Stack
 
-**Fullstack**:  Nest · Node.js · TypeScript · React · FastAPI · Python 
+**Fullstack**:  Nest · Node.js · TypeScript · React · FastAPI · Python
 **AI/LLM**: Handlebars · LangSmith · New Relic · Prompt Engineering  
 **Data**: MySQL · MongoDB · Supabase  
 **Tools**: Git · Docker · Vercel · Render
