@@ -10,8 +10,8 @@ Building **[Symetra](https://www.symetra.com.br/)**. AI-native clinic management
 
 ### Stack
 
-**AI/LLM**: Handlebars · LangSmith · New Relic · GPT, Gemini & Claude · Prompt Engineering  
-**Fullstack**: React · Node.js · FastAPI · TypeScript · Python · Nest
+**Fullstack**:  Nest · Node.js · TypeScript · React · FastAPI · Python 
+**AI/LLM**: Handlebars · LangSmith · New Relic · Prompt Engineering  
 **Data**: MySQL · MongoDB · Supabase  
 **Tools**: Git · Docker · Vercel · Render
 
